@@ -173,11 +173,6 @@ def analyze_data(category):
     # Convert comments to a DataFrame for analysis
     comments_df = pd.DataFrame(all_comments)
     if not comments_df.empty:
-        try:
-            locale.setlocale(locale.LC_TIME, "fr_FR.UTF-8")
-        except locale.Error:
-            print("Locale 'fr_FR.UTF-8' not available. Falling back to default.")
-            locale.setlocale(locale.LC_TIME, "en_US.UTF-8")
         # Parse dates directly
         comments_df["date"] = pd.to_datetime(comments_df["date"], format="%A %d %B %Y - %H:%M", errors="coerce")
         # Standardize the date format (if needed) and count comments by date
