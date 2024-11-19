@@ -1,0 +1,103 @@
+[
+    {
+        "title": "Article 1",
+        "url": "https://example.com/article1",
+        "date": "2024-11-18"
+    },
+    {
+        "title": "Trump, le Maroc et le Sahara : vers un nouveau chapitre stratégique",
+        "url": "https://fr.hespress.com/396956-trump-le-maroc-et-le-sahara-vers-un-nouveau-chapitre-strategique.html",
+        "date": "mardi 19 novembre 2024 - 16:10",
+        "comments": []
+    },
+    {
+        "title": "Fête de l’Indépendance: le Roi félicité par le Serviteur des Lieux saints de l’Islam",
+        "url": "https://fr.hespress.com/396963-fete-de-lindependance-le-roi-felicite-par-le-serviteur-des-lieux-saints-de-lislam.html",
+        "date": "mardi 19 novembre 2024 - 11:51",
+        "comments": []
+    },
+    {
+        "title": "Fête de l'Indépendance : le président émirati félicite le Roi",
+        "url": "https://fr.hespress.com/396961-fete-de-lindependance-le-president-emirati-felicite-le-roi.html",
+        "date": "mardi 19 novembre 2024 - 11:46",
+        "comments": []
+    },
+    {
+        "title": "La gestion de l’eau au Maroc: Enjeux et pratiques",
+        "url": "https://fr.hespress.com/396839-la-gestion-de-leau-au-maroc-enjeux-et-pratiques.html",
+        "date": "mardi 19 novembre 2024 - 09:45",
+        "comments": []
+    },
+    {
+        "title": "Sahara: Des roquettes iraniennes chez le polisario menacent une ouverture diplomatique entre Téhéran et Rabat",
+        "url": "https://fr.hespress.com/396886-sahara-des-roquettes-iraniennes-chez-le-polisario-menacent-une-ouverture-diplomatique-entre-teheran-et-rabat.html",
+        "date": "lundi 18 novembre 2024 - 23:00",
+        "comments": []
+    },
+    {
+        "title": "Algérie, championne de la solidarité.... en paroles !",
+        "url": "https://fr.hespress.com/396234-algerie-championne-de-la-solidarite-en-paroles.html",
+        "date": "dimanche 17 novembre 2024 - 12:30",
+        "comments": [
+            {
+                "author": "Kamel",
+                "date": "lundi 18 novembre 2024 - 18:51",
+                "text": "Ne vous compliquer pas la vie avec les remords. Vous auriez aimé que l’Algérie signe sa soumission au accords d’Abraham. Pour le reste, Demandez l’avis des Palestiniens sur DZ"
+            }
+        ]
+    },
+    {
+        "title": "Bientôt un consulat chinois à Laâyoune ?",
+        "url": "https://fr.hespress.com/396603-bientot-un-consulat-chinois-a-laayoune.html",
+        "date": "dimanche 17 novembre 2024 - 08:33",
+        "comments": [
+            {
+                "author": "Anouar",
+                "date": "dimanche 17 novembre 2024 - 09:59",
+                "text": "Le monde entier a enfin ouvert les yeux :Le Sahara était, est  et sera toujours MAROCAIN."
+            }
+        ]
+    },
+    {
+        "title": "Hilale: Le sécurité alimentaire en Afrique est une priorité stratégique pour le Roi Mohammed VI",
+        "url": "https://fr.hespress.com/396646-hilale-le-securite-alimentaire-en-afrique-est-une-priorite-strategique-pour-le-roi-mohammed-vi.html",
+        "date": "samedi 16 novembre 2024 - 22:45",
+        "comments": []
+    },
+    {
+        "title": "Madrid : les politiciens espagnols boudent la marche du polisario",
+        "url": "https://fr.hespress.com/396627-madrid-les-politiciens-espagnols-boudent-la-marche-du-polisario.html",
+        "date": "samedi 16 novembre 2024 - 20:41",
+        "comments": []
+    },
+    {
+        "title": "ONU: Omar Hilale nommé co-président du Forum de l'ECOSOC",
+        "url": "https://fr.hespress.com/396565-onu-omar-hilale-nomme-co-president-du-forum-de-lecosoc.html",
+        "date": "samedi 16 novembre 2024 - 11:22",
+        "comments": []
+    },
+    {
+        "title": "Violences à Amsterdam: Ce que les autres omettent de voir",
+        "url": "https://fr.hespress.com/396548-violences-a-amsterdam-ce-que-les-autres-omettent-de-voir.html",
+        "date": "samedi 16 novembre 2024 - 10:38",
+        "comments": []
+    },
+    {
+        "title": "Lekjaa: Le PLF 2025 est au service de l'intérêt général",
+        "url": "https://fr.hespress.com/396514-lekjaa-le-plf-2025-est-au-service-de-linteret-general.html",
+        "date": "samedi 16 novembre 2024 - 09:42",
+        "comments": []
+    },
+    {
+        "title": "La protection du patrimoine sur la table du conseil de gouvernement",
+        "url": "https://fr.hespress.com/397006-la-protection-du-patrimoine-sur-la-table-du-conseil-de-gouvernement.html",
+        "date": "mardi 19 novembre 2024 - 21:25",
+        "comments": []
+    },
+    {
+        "title": "Insolite. L'écrivain Kamel Daoud visé par une plainte en Algérie",
+        "url": "https://fr.hespress.com/397010-insolite-lecrivain-kamel-daoud-vise-par-une-plainte-en-algerie.html",
+        "date": "mardi 19 novembre 2024 - 21:25",
+        "comments": []
+    }
+]
